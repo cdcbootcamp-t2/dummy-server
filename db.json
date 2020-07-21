@@ -6,8 +6,18 @@
 			"imgs": ["https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png", "https://dummyimage.com/600x400/000/fff&text=Image+1", "https://dummyimage.com/600x400/000/fff&text=Image+2", "https://dummyimage.com/600x400/000/fff&text=Image+3"]
 	  	},
 	  	{
-			"id": 1, 
-			"name": "Item 1",
+			"id": 2, 
+			"name": "Item 2",
+			"imgs": ["https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png", "https://dummyimage.com/600x400/000/fff&text=Image+1", "https://dummyimage.com/600x400/000/fff&text=Image+2", "https://dummyimage.com/600x400/000/fff&text=Image+3"]
+	  	},
+	  	{
+			"id": 3, 
+			"name": "Item 3",
+			"imgs": ["https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png", "https://dummyimage.com/600x400/000/fff&text=Image+1", "https://dummyimage.com/600x400/000/fff&text=Image+2", "https://dummyimage.com/600x400/000/fff&text=Image+3"]
+	  	},
+	  	{
+			"id": 4, 
+			"name": "Item 4",
 			"imgs": ["https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png", "https://dummyimage.com/600x400/000/fff&text=Image+1", "https://dummyimage.com/600x400/000/fff&text=Image+2", "https://dummyimage.com/600x400/000/fff&text=Image+3"]
 	  	}
   	]
